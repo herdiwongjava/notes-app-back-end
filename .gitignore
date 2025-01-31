@@ -3,4 +3,4 @@ old_script
 .env
 .prod.env
 .gitignore
-
+src/api/uploads/file
